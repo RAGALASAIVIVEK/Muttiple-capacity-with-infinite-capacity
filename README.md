@@ -11,18 +11,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
 ## Procedure :
-
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
-
-
-
 
 ## Experiment:
 ![image](https://github.com/RAGALASAIVIVEK/Muttiple-capacity-with-infinite-capacity/assets/144979718/fbb145e7-5470-4081-8f32-effa47269f42)
 ![image](https://github.com/RAGALASAIVIVEK/Muttiple-capacity-with-infinite-capacity/assets/144979718/342b1e15-76d5-4ca8-a4b5-25904e233c6c)
-
-
-
 
 ## Program
 ```
@@ -58,8 +51,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-
-
 ## Output :
 ![image](https://github.com/RAGALASAIVIVEK/Muttiple-capacity-with-infinite-capacity/assets/144979718/80000e75-2413-4171-8073-0a58b75484c5)
 
